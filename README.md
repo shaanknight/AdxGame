@@ -18,9 +18,7 @@ Our agent stood second in the tournament, for checking out the game logs of the 
 
 Brief overview of the results ( ours is ThreeAgent ) :
 
-################# RESULT ##################
-	      Agent 	#  Profit 	###
-###########################################
+  Agent 	   Profit
 - ElevenAgent 	:  4912.86 
 - ThreeAgent 	:  4742.28 	
 - TwoAgent 	:  3630.89 	
@@ -32,4 +30,3 @@ Brief overview of the results ( ours is ThreeAgent ) :
 - NineAgent 	:  -966.40 	
 - agent1 	: -2059.01 	
 - EightAgent 	: -3258.30 	
-	###########################################
