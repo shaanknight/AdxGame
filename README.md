@@ -5,8 +5,8 @@ The description and details of the game and the tournament are mentioned in the 
 
 We have implemented the following strategy:-
 
-1.) Spending limit for each segment is divided into eight parts, depending on the distribution.
-2.) The bid amount is 0.8 * budget/reach
+- Spending limit for each segment is divided into eight parts, depending on the distribution.
+- The bid amount is 0.8 * budget/reach
 
 First we observed that bidding 1*budget/reach is the equilibrium strategy for a single auction. But, upon trying out different strategies, we found that, in the long run, bidding 0.8 * budget/reach is the optimal strategy( assuming that multiple people bid 1).
 
@@ -18,7 +18,7 @@ Our agent stood second in the tournament, for checking out the game logs of the 
 
 Brief overview of the results ( ours is ThreeAgent ) :
 
-  Agent 	   Profit
+  Agent and corresponding	Profits made by them throughout 30 days :
 - ElevenAgent 	:  4912.86 
 - ThreeAgent 	:  4742.28 	
 - TwoAgent 	:  3630.89 	
