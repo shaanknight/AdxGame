@@ -1,4 +1,11 @@
 # AdxGame
+Building an agent to play a greatly simplified version of the most recent game, Ad
+Exchange (AdX), in which agents play the role of ad networks, competing to procure
+contracts (i.e., advertising campaigns) from advertisers (e.g., retailers), and then bidding in
+an exchange on opportunities to exhibit those ads to Internet users as they browse the web. 
+
+This was built for a tournament to be played among teams taking the course Introduction to Game Theory, Spring 2020 at IIIT Hyderabad.
+#### Performance : Rank 2 in the tournament
 ### Contributors : Tanmay Kumar Sinha, Sayantan Jana, Yash Chaurasia
 
 The description and details of the game and the tournament are mentioned in the pdf AdXGame_IGTSpring20.pdf.
@@ -29,4 +36,4 @@ Brief overview of the results ( ours is ThreeAgent ) :
 - agent4 	:  -717.45 	
 - NineAgent 	:  -966.40 	
 - agent1 	: -2059.01 	
-- EightAgent 	: -3258.30 	
+- EightAgent 	: -3258.30
